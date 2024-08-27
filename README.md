@@ -10,6 +10,7 @@ The primary purpose of this repository is to serve as a backend for the Euphoria
 
 - The mod fetches the latest release tag from this repository using the GitHub API.
 - The version tag follows the format `X.Y.Z`
+- The code can be found in the [mod's repository ](https://github.com/EuphoriaPatches/EuphoriaPatcher) in the UpdateChecker.java file
 - If the fetched version is newer than the installed version, the mod will notify the user in the log and provide a link to download the update from Modrinth.
 
 ## Note
