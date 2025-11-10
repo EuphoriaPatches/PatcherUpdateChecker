@@ -1,3 +1,6 @@
+# NOW ARCHIVED:
+## As of 1.7.5 the mod now used the Modrinth API and no longer the GitHub API for this feature
+
 # Euphoria Patcher - Version Update Repository
 
 This repository is used solely for the Euphoria Patcher mod to check for the latest version updates. It is not intended for direct use by end-users.
