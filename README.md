@@ -1,5 +1,5 @@
 # NOW ARCHIVED:
-## As of 1.7.5 the mod now used the Modrinth API and no longer the GitHub API for this feature
+## As of 1.7.5 the mod now uses the Modrinth API and no longer the GitHub API for this feature making this repo useless
 
 # Euphoria Patcher - Version Update Repository
 
